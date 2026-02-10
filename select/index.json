@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "海に化ける",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-10T05:19:15.304045Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "海に化ける",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_海に化ける_花譜.txt"
+    }
+  ]
+}
